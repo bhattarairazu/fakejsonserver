@@ -5,7 +5,7 @@
             "recipient_id": "rasa",
             "attachment": {
                 "intent": "greeting",
-                "intent_confidence": 0.9808230996131897,
+                "intent_confidence": 0.980,
                 "query_response": "Hi there rasa. 👋😃 How can I help you?",
                 "response_type": "normal_message",
                 "data_fetch_status": "success"
